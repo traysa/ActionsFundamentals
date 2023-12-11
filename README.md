@@ -71,3 +71,4 @@ Find common terminology for reference [here](./CheatSheet.md)
 ## Testing of github action
 Trigger a push.
 Make a change but commit with [skip ci].
+Make changes with Pull Request.
