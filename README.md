@@ -69,5 +69,5 @@ For this workshop you need the following:
 Find common terminology for reference [here](./CheatSheet.md)
 
 ## Testing of github action
-Trigger a push
-
+Trigger a push.
+Make a change but commit with [skip ci].
