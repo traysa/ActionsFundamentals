@@ -9,10 +9,10 @@ on:
     - cron: "15 6 * * Sun"
   workflow_dispatch:
     inputs:
-        environment:
-          description: 'Environment to deploy to'
-          type: environment
-          required: true
+      environment:
+        description: 'Environment to deploy to'
+        type: environment
+        required: true
 
 jobs:
   Build:
